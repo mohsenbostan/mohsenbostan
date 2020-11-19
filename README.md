@@ -1,8 +1,9 @@
-# I'm A Happy Backend Developer :)))
-
-💥 [Subscribe To My YouTube Channel](https://www.youtube.com/channel/UCmRdgrhxeOztHfTdXXKKvHg?sub_confirmation=1) 💥
+**Subscribe To My YouTube Channel :**
+<a href="https://www.youtube.com/channel/UCmRdgrhxeOztHfTdXXKKvHg?sub_confirmation=1">
+<img src="https://www.youtube.com/about/static/svgs/icons/brand-resources/YouTube-logo-full_color_light.svg" height="20em" /> 
+</a>
 <br>
-💥 [Visit My Portfolio](http://bostan.dev/) 💥
+
 ---
  - ✨ PHP: Laravel
  - 😎 JavaScript: Node.js, React.js, Vue.js, Express.js
