@@ -10,4 +10,7 @@
  - 😏 Python
  - 😁 Git + Docker + Gitlab CI/CD
 
-[![Mohsen's github stats](https://github-readme-stats.vercel.app/api?username=mohsenbostan)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/mohsenbostan">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohsenbostan&show_icons=true&theme=merko&count_private=true" alt="Mohsen's github stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsenbostan&theme=merko&layout=compact" alt="Mohsen's github top languages" />
+</a>
