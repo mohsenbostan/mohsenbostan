@@ -1,17 +1,22 @@
-**Subscribe To My YouTube Channel :**
-<a href="https://www.youtube.com/channel/UCmRdgrhxeOztHfTdXXKKvHg?sub_confirmation=1">
-<img src="https://www.youtube.com/about/static/svgs/icons/brand-resources/YouTube-logo-full_color_light.svg" height="20em" /> 
-</a>
-<br>
+# Hi there, I'm Mohsen - aka [HomelessDev] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
+## I'm a full-stack developer  
+
+- 👨‍💻 I’m working on web development technologies .
+- 📚 I’m currently working on big projects.
+- 💪🏼 Future Goals: Learn more technologies.
 
 ---
- - ✨ PHP: Laravel
- - 😎 JavaScript: Node.js, React.js, Vue.js, Express.js
- - 💙 Golang :)))
- - 😏 Python
- - 😁 Git + Docker + Gitlab CI/CD
 
-<a href="https://github.com/mohsenbostan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohsenbostan&show_icons=true&theme=merko&count_private=true" alt="Mohsen's github stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsenbostan&theme=merko&layout=compact" alt="Mohsen's github top languages" />
-</a>
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+
+---
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
