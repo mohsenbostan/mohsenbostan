@@ -8,13 +8,12 @@
 - 📚 I’m currently working on big projects.
 - 💪🏼 Future Goals: Learn more technologies.
 
-![Twitter Follow](https://img.shields.io/twitter/follow/a_homeless_dev?label=Follow)
-![GitHub followers](https://img.shields.io/github/followers/mohsenbostan?label=Follow&style=social)
-![Twitch Follow](https://img.shields.io/twitch/status/homelessdev?style=social)
-![YouTube Subscribe](https://img.shields.io/youtube/channel/views/UCmRdgrhxeOztHfTdXXKKvHg?style=social)
-[![Instagram Follow](https://img.shields.io/badge/-Instagram-C13584?style=social&logo=Instagram)](https://www.instagram.com/mohsenbostan.ir/)
-[![Discord](https://img.shields.io/discord/834870097285218356.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/pED7Yw9SAj)
-
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/a_homeless_dev)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/pED7Yw9SAj)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohsenbostan)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/homelessdev)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCmRdgrhxeOztHfTdXXKKvHg)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mohsenbostan.ir/)
 
 ---
 
