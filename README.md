@@ -12,7 +12,9 @@
 ![GitHub followers](https://img.shields.io/github/followers/mohsenbostan?label=Follow&style=social)
 ![Twitch Follow](https://img.shields.io/twitch/status/homelessdev?style=social)
 ![YouTube Subscribe](https://img.shields.io/youtube/channel/views/UCmRdgrhxeOztHfTdXXKKvHg?style=social)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=social&logo=Instagram)](https://www.instagram.com/mohsenbostan.ir/)
+[![Instagram Follow](https://img.shields.io/badge/-Instagram-C13584?style=social&logo=Instagram)](https://www.instagram.com/mohsenbostan.ir/)
+[![Discord](https://img.shields.io/discord/834870097285218356.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/pED7Yw9SAj)
+
 
 ---
 
