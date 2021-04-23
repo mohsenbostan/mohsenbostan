@@ -45,3 +45,5 @@ No Activity Tracked This Week
 
 
 <!--END_SECTION:waka-->
+
+<img src="https://imgur.com/rilHVxA.png"/>
