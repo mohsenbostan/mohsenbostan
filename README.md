@@ -8,6 +8,12 @@
 - 📚 I’m currently working on big projects.
 - 💪🏼 Future Goals: Learn more technologies.
 
+![Twitter Follow](https://img.shields.io/twitter/follow/a_homeless_dev?label=Follow)
+![GitHub followers](https://img.shields.io/github/followers/mohsenbostan?label=Follow&style=social)
+![Twitch Follow](https://img.shields.io/twitch/status/homelessdev?style=social)
+![YouTube Subscribe](https://img.shields.io/youtube/channel/views/UCmRdgrhxeOztHfTdXXKKvHg?style=social)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=social&logo=Instagram&logoColor=white)](https://www.instagram.com/mohsenbostan.ir/)
+
 ---
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
