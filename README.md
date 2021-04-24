@@ -2,11 +2,13 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a full-stack developer  
+## I'm a full-stack developer
 
-- 👨‍💻 I’m working on web development technologies .
-- 📚 I’m currently working on big projects.
-- 💪🏼 Future Goals: Learn more technologies.
+- 💻 My favorite thing to do is backend development.
+- 📚 New technologies intrigue me, so I am constantly striving to learn them.
+- ⚡ Additionally, DevOps works are something I enjoy too.
+- 🧑‍🏫 I provide programming tutorials on my YouTube channel.
+- 🔴 I often stream on twitch.
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/a_homeless_dev)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/pED7Yw9SAj)
