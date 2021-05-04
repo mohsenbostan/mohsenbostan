@@ -1,6 +1,6 @@
 # Hi there, I'm Mohsen - aka [HomelessDev] <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
-<img align="right" alt="GIF" height="180px" src="https://octodex.github.com/images/Fintechtocat.png" />
+<img align="right" alt="GIF" height="220px" src="https://octodex.github.com/images/Fintechtocat.png" />
 
 ## I'm a full-stack developer
 
