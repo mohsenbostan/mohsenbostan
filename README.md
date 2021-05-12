@@ -46,11 +46,10 @@
 ⌚︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-TypeScript               19 mins             █████████████████░░░░░░░░   69.58% 
-JSON                     8 mins              ███████░░░░░░░░░░░░░░░░░░   30.42%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  28 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
