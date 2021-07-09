@@ -58,7 +58,7 @@ VS Code                  2 hrs 50 mins       ███████████�
 ```
 
 
- Last Updated on 08/07/2021
+ Last Updated on 09/07/2021
 <!--END_SECTION:waka-->
 
 [![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)]()
