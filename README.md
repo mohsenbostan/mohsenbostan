@@ -46,15 +46,15 @@
 ⌚︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-JavaScript               7 mins              █████████████████████████   100.0%
+JavaScript               22 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  7 mins              █████████████████████████   100.0%
+VS Code                  22 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 02/08/2021
+ Last Updated on 03/08/2021
 <!--END_SECTION:waka-->
 
 [![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)]()
