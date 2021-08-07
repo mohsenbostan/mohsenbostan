@@ -56,7 +56,7 @@ VS Code                  29 mins             ███████████�
 ```
 
 
- Last Updated on 06/08/2021
+ Last Updated on 07/08/2021
 <!--END_SECTION:waka-->
 
 [![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)]()
