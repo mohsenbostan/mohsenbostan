@@ -46,15 +46,16 @@
 ⌚︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSX                      15 mins             █████████████████████░░░░   84.51% 
+JSON                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   15.49%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  18 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 12/11/2021
+ Last Updated on 13/11/2021
 <!--END_SECTION:waka-->
 
 [![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)]()
