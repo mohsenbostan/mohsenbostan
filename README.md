@@ -46,18 +46,15 @@
 ⌚︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-TypeScript               48 mins             ████████████████████████░   96.9% 
-Vue.js                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.23% 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.59% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.27%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  50 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 22/03/2022 18:46:44 UTC
+ Last Updated on 23/03/2022 18:47:42 UTC
 <!--END_SECTION:waka-->
 
 [![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)]()
