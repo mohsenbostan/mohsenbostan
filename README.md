@@ -29,6 +29,8 @@
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -55,7 +57,7 @@ VS Code                  50 mins             ███████████�
 ```
 
 
- Last Updated on 06/05/2022 18:49:29 UTC
+ Last Updated on 07/05/2022 18:47:49 UTC
 <!--END_SECTION:waka-->
 
 [![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)]()
