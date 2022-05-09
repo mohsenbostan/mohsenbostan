@@ -57,7 +57,7 @@ VS Code                  50 mins             ███████████�
 ```
 
 
- Last Updated on 08/05/2022 18:47:29 UTC
+ Last Updated on 09/05/2022 18:49:53 UTC
 <!--END_SECTION:waka-->
 
 [![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)]()
