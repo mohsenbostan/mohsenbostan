@@ -48,16 +48,15 @@
 ⌚︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-Python                   18 mins             █████████████████████████   99.87% 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  18 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 06/06/2022 18:47:49 UTC
+ Last Updated on 07/06/2022 18:47:47 UTC
 <!--END_SECTION:waka-->
 
 [![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)]()
