@@ -2,69 +2,26 @@
 
 <img align="right" alt="GIF" height="190px" src="https://octodex.github.com/images/Fintechtocat.png" />
 
-## I'm a full-stack developer
+My name is Mohsen and I'm a software engineer. I live in Berlin, Germany.
 
-- 💻 My favorite thing to do is backend development.
-- 📚 New technologies intrigue me, so I am constantly striving to learn them.
-- ⚡ Additionally, DevOps works are something I enjoy too.
-- 📺 I provide programming tutorials on my YouTube channel.
-- 🔴 I often stream on twitch.
+I love to build things and I'm always looking for new challenges. I enjoy listening to music and playing video games in my free time.
 
+I also share my knowledge on social media. So if you are interested in my work, subscribe to my [newsletter](https://bostan.dev).
+
+### Find Me On Social Media
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RealHomelessDev)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/pED7Yw9SAj)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohsenbostan)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/homelessdev)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCmRdgrhxeOztHfTdXXKKvHg)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsenbostan)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mohsenbostan.ir/)
 
----
-
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem-liart-mu.vercel.app/api/spotify)](https://open.spotify.com/user/frj9261crjc4ocj91kbgvzhet?si=EgUp9pCaRT2yp_cdzYblrQ)
-
----
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-169%20hrs%207%20mins-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    15 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.39% 
-🌆 Daytime    125 commits    ███████░░░░░░░░░░░░░░░░░░   28.22% 
-🌃 Evening    193 commits    ███████████░░░░░░░░░░░░░░   43.57% 
-🌙 Night      110 commits    ██████░░░░░░░░░░░░░░░░░░░   24.83%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Tehran
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-```
-
-
- Last Updated on 30/12/2022 18:40:27 UTC
-<!--END_SECTION:waka-->
+### Technologies I am Interested In
 
 [![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)]()
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
+[![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)]()
 [![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
+[![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)]()
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)]()
 [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)]()
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
-
-<img src="https://imgur.com/rilHVxA.png"/>
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)]()
