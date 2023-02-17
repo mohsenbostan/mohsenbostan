@@ -1,4 +1,4 @@
-# Hi there, I'm Mohsen - aka [HomelessDev] <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
+# Hi there
 
 <img align="right" alt="GIF" height="190px" src="https://octodex.github.com/images/Fintechtocat.png" />
 
