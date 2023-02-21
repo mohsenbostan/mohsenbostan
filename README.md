@@ -1,6 +1,6 @@
 # Hi there
 
-<img align="right" alt="GIF" height="190px" src="https://octodex.github.com/images/Fintechtocat.png" />
+<img align="right" alt="GIF" height="180px" src="https://octodex.github.com/images/Fintechtocat.png" />
 
 My name is Mohsen and I'm a software engineer. I live in Berlin, Germany.
 
